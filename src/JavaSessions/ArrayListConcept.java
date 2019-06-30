@@ -13,7 +13,7 @@ public class ArrayListConcept {
 		ar.add(300);
 		ar.add(500);
 		
-		// to print the value of giver array list we will use get index method
+		// to print the value of given array list we will use get index method
 		
 		System.out.println(ar.get(2));
 		
