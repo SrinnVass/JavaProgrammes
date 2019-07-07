@@ -33,7 +33,7 @@ public class TestBank {
 		
 		b1.mutualtransfer();
 		
-		
+		System.out.println(USBank.min_bal);
 
 	}
 
