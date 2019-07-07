@@ -34,13 +34,8 @@ public class TestBank {
 		b1.mutualtransfer();
 		
 		System.out.println(USBank.min_bal);
-<<<<<<< HEAD
-		
-		
-		
-		
-=======
->>>>>>> c0f84abd842871c64429c28570d0167eb45d5a92
+
+	
 
 	}
 
