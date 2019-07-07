@@ -4,7 +4,8 @@ public class MethodOverloading {
 
 	public static void main(String[] args) {
 		
-		MethodOverloading obj = new MethodOverloading(); // when the method name is same but having diff input parameters or arguments with diff data types
+		
+      MethodOverloading obj = new MethodOverloading(); // when the method name is same but having diff input parameters or arguments with diff data types
 		
 		int i = 10;
 		 
@@ -61,5 +62,7 @@ public class MethodOverloading {
 		
 	}
 	
-	
-}
+
+	}
+
+
