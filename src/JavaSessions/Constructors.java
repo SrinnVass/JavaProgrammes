@@ -2,6 +2,8 @@ package JavaSessions;
 
 public class Constructors {
 	
+	// name of the class and name of the contsructors should be same
+	// there is no return type for the constructors
 	
 	String name;
 	
