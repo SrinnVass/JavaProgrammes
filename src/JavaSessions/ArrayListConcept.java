@@ -9,9 +9,9 @@ public class ArrayListConcept {
 		
 		ArrayList ar = new ArrayList();
 		
-		ar.add(100);
-		ar.add(300);
-		ar.add(500);
+		ar.add(100); //0
+		ar.add(300); //1
+		ar.add(500); //2
 		
 		// to print the value of given array list we will use get index method
 		
@@ -21,7 +21,7 @@ public class ArrayListConcept {
 		
 		System.out.println(ar.size());
 		
-		ar.add("tom");
+		ar.add("tom"); 
 		ar.add(1);
 		ar.add(12.25);
 		ar.add('3');

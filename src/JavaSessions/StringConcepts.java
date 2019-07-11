@@ -13,6 +13,8 @@ public class StringConcepts {
 		
 		System.out.println(s);
 		
+		System.out.println("***********");
+		
 		// Append method applies only for StringBuffer
 		
 		StringBuffer sb = new StringBuffer(s);

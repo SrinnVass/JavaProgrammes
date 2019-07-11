@@ -114,7 +114,7 @@ public class ArraysConcept {
 			 
 		}
 		
-		// Object array ... Object is a super class
+		// Object array ... Object is a super class we can store different data types
 		
 		Object ob[] = new Object[5];
 		

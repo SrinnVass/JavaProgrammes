@@ -32,13 +32,13 @@ public class TestCar {
 		
 		// Top casting :  Down casting is not possible, will throw an error
 		
-		BMW c1 = new BMW(); // Dynamic polymorphism or runtime polymorphism : child class object can be referred by parent class object reference variable
+		Car c1 = new BMW(); // Dynamic polymorphism or runtime polymorphism : child class object can be referred by parent class object reference variable
 		
 		c1.start();
 		
 		c1.stop();
 		
-		c1.refuel();  // only common methods (i.e methods in parent as well as in child) and parent class methods will be called by using Dynamic or Runtime polymorphism
+		c1.refuel();  // only overridden methods and parent class methods will be called by using Dynamic or Runtime polymorphism
 		
 		
 		

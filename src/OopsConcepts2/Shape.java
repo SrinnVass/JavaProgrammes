@@ -1,4 +1,4 @@
-package OopsConcepts2;
+ package OopsConcepts2;
 
 public abstract class Shape {
 	
@@ -12,7 +12,7 @@ public abstract class Shape {
 	
 	
 	
-	String colour;
+	String colour = "Green";
 	
 	abstract void drawing(); // abstract method
 	

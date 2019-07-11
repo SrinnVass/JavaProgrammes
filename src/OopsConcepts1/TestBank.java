@@ -19,6 +19,8 @@ public class TestBank {
 		
 		hs.mutualtransfer();
 		
+		System.out.println("********");
+		
 		
 		USBank b = new HSBC(); // Dynamic or Runtime polymorphism
 		
@@ -26,7 +28,9 @@ public class TestBank {
 		
 		b.debit();
 		
-		b.transfermoney();    // only over ridden methods can be called in Dynamic polymorphism
+		b.transfermoney();    // only over ridden methods and parent methods can be called in Dynamic polymorphism
+		
+		System.out.println("********");
 		
 		
 		BrazilBank b1 = new HSBC();
