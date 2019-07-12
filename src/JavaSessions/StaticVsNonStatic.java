@@ -38,16 +38,7 @@ public class StaticVsNonStatic {
 		  obj.sum();
 		  
 		  System.out.println(obj.name);
-		  
-		  
-		  
-		
-		
-		
-		
-		
-		
-		
+		 	
 	}
 	
 	

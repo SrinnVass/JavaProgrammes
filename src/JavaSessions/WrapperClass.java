@@ -50,12 +50,7 @@ public class WrapperClass {
         
         String u = "100a";
         
-        Integer.parseInt(u);
-        
-       
-        
-        
-        
+        Integer.parseInt(u); // will get number format exception
         
        
        
